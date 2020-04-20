@@ -3,7 +3,7 @@ ZulipBot for HackOn
 
 # Welcome to Friday!
 ## Team Nokia3310 in HackON
-!
+
 ## **Friday-Bot** is a zulip chatbot   
 
 
