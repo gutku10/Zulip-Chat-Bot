@@ -2,7 +2,7 @@
 ZulipBot for HackOn
 
 # Welcome to Friday!
-## Team Nokia3310 in HackON
+## Team Nokia3310 in HackON!
 
 ## **Friday-Bot** is a zulip chatbot   
 
@@ -23,10 +23,13 @@ ZulipBot for HackOn
 friday-Bot can :
 >
 
->* Get top news
->* Crack a joke
+>* Covid19 Statistics
+>* Precautions reminder
+>* Covid19 Queries Answer
 >* Motivates you with quotes
 >* Have a nice chat with friday
+>* Get top news
+>* Crack a joke
 
 ## How to use?
 
@@ -39,7 +42,7 @@ Get top 10 stories in no time in your Zulip server.
 
 ![](./images/news.png)    
 
-###  News:
+###  Statistics:
 Get the covid 19 statistics.  
 `friday covid19 stats india`  
 
